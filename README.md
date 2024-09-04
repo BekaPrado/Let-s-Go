@@ -18,7 +18,4 @@ Site do tipo landing Page para divulgar o jogo Let's Go, Pikachu. O intuito dest
 
 ## Autor
 
-- [Rebeka Marcelino do Prado](https://www.linkedin.com/in/rebeka-marcelino-do-prado-436503327/)# Let-s-Go
-# Let-s-Go
-# Let-s-Go
-# Let-s-Go
+- [Rebeka Marcelino do Prado](https://www.linkedin.com/in/rebeka-marcelino-do-prado-436503327/)
